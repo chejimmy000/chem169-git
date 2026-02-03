@@ -1,2 +1,12 @@
 meow meow meow meow 
 woof woof woof woof: edited from github interface 
+
+
+# How can I view a list of commits?
+# Ans: You can view a list of commits by using "git log" if you are in the repo. Alternatively, you can use "git log --oneline" for a summarized view.
+
+# How do I switch branches?
+# Ans: You can switch branches by using "git checkout branch_name" or "git switch branch_name".
+
+# What command shows file differences?
+# Ans: The command that shows file differences is "git diff".
