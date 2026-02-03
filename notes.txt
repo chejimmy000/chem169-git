@@ -10,3 +10,6 @@ woof woof woof woof: edited from github interface
 
 # What command shows file differences?
 # Ans: The command that shows file differences is "git diff".
+
+git remote -v > lastname_firstname_RID_007_deliverable.txt
+git log >> lastname_firstname_RID_007_deliverable.txt
